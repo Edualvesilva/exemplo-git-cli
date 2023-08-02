@@ -53,3 +53,7 @@ Copiando/baixando um repositório para a máquina remota.
 `git push origin main`
 
 Enviar as mudanças para o GitHub (PUSH)
+
+`git pull origin main`
+
+Pegar/obter as mudanças do repositório online GitHub (PULL)
